@@ -2,7 +2,7 @@
 This Project is about creating a program which outputs the necessary moves to sort a stack of inputted integer parameters using only 2 stacks, Stack A and Stack B, in the smallest number of moves as possible.  
 Read the [subject.pdf](https://github.com/Tempest989/Push_Swap/blob/main/en.subject.pdf) for in-depth information about the Project.
 # My Score
-<img width="1347" alt="ft_printf Score" src="https://user-images.githubusercontent.com/55472613/178435046-1fe9b18c-df8b-40bd-ac35-78aa37d0553d.png">
+<img width="1347" alt="Push_Swap Score" src="https://user-images.githubusercontent.com/55472613/178903689-ce1f6a27-f03d-45f3-b4e6-31bbc48241d9.png">
 
 # Makefile Utility
 - `make` and `make push_swap` will compile the Mandatory part of the Push_Swap Project, as the executable `push_swap`.
